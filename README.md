@@ -5,7 +5,7 @@
 1. Clone this repository to your local machine using Git
 
    ```
-   https://github.com/muhammadafshal404/node-typescript-task.git
+   https://github.com/HarisAbbasiWork/softoo-test
    ```
 
 2. Navigate to the project directory
